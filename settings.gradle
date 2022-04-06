@@ -1,0 +1,5 @@
+rootProject.name = "FastBank"
+include ':common'
+include ':domain'
+include ':data'
+include ':ui'
